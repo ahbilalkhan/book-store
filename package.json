@@ -16,6 +16,7 @@
     "mocha": "^10.2.0"
   },
   "devDependencies": {
+    "joi": "^17.12.2",
     "nodemon": "^2.0.22",
     "supertest": "^6.3.3"
   }
